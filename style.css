@@ -41,3 +41,9 @@
     border-bottom: 1px solid var(--sky-green);
 
   }
+
+  @media screen and (max-width: 768px) {
+    .head h1{
+        font-size: 22px;
+    }
+  }
